@@ -3,4 +3,4 @@ function hello(name: string): string {
 }
 
 // console.log(hello("TypeScript"));
-console.log("hello!!!");
+console.log("hello---!!!");
